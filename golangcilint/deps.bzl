@@ -11,7 +11,7 @@ _PREFIX = (
 
 _ARCHIVE_TYPE = ["zip", "tar.gz"]
 
-_VERSION = "v1.57.2"
+_VERSION = "1.57.2"
 _CHECKSUMS = {
     "windows-386": "95321b1ec07db22e29538d0b18d36a376ca7d834c4826351db2b73436d27f7c1",
     "windows-amd64": "10c1ab7eb4a99f8b292a8f910bc78a50e9547a4ffe7444fcddc68f722adf6612",
